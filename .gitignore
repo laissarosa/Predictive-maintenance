@@ -1,6 +1,13 @@
 .venv/
 __pycache__/
-data/
+*.pyc
+.claude/
 models/
 db/
-reports/
+
+# dados: o CSV (209 MB) vem da UCI e o parquet limpo é gerado por scripts/clean_data.py
+data/*
+!data/Data Description_Metro.pdf
+
+# resultados: figuras e tabelas .csv entram no repositório; os .parquet são regenerados pelos scripts
+reports/resultados/*.parquet

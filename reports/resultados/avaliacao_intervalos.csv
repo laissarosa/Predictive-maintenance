@@ -1,0 +1,22 @@
+nivel,tipo,inicio,dur_h,dado_24h_antes_e_dentro,detectado,antecedencia_h,cumpre_2h,cobertura_do_evento
+informacao,falha,2020-04-18 00:00:00,24.0,0.56,True,-2.0,False,0.92
+informacao,falha,2020-05-29 23:30:00,6.5,0.8,True,0.5,False,1.0
+informacao,falha,2020-06-05 10:00:00,52.5,0.92,True,-1.0,False,0.88
+informacao,falha,2020-07-15 14:30:00,4.5,0.75,True,14.5,True,1.0
+informacao,provavel,2020-04-12 11:50:30,11.8,0.86,True,-1.2,False,0.9
+informacao,provavel,2020-05-13 13:44:00,11.6,0.89,True,-0.3,False,0.86
+informacao,provavel,2020-05-19 22:20:10,24.7,0.8,True,15.3,True,0.85
+aviso,falha,2020-04-18 00:00:00,24.0,0.56,True,-4.0,False,0.67
+aviso,falha,2020-05-29 23:30:00,6.5,0.8,True,-4.5,False,0.31
+aviso,falha,2020-06-05 10:00:00,52.5,0.92,True,-3.0,False,0.46
+aviso,falha,2020-07-15 14:30:00,4.5,0.75,True,-3.5,False,0.22
+aviso,provavel,2020-04-12 11:50:30,11.8,0.86,True,-8.2,False,0.31
+aviso,provavel,2020-05-13 13:44:00,11.6,0.89,True,-3.3,False,0.61
+aviso,provavel,2020-05-19 22:20:10,24.7,0.8,True,-7.7,False,0.57
+critico,falha,2020-04-18 00:00:00,24.0,0.56,True,-8.0,False,0.13
+critico,falha,2020-05-29 23:30:00,6.5,0.8,False,,False,0.0
+critico,falha,2020-06-05 10:00:00,52.5,0.92,True,-8.0,False,0.02
+critico,falha,2020-07-15 14:30:00,4.5,0.75,True,-3.5,False,0.22
+critico,provavel,2020-04-12 11:50:30,11.8,0.86,True,-8.2,False,0.26
+critico,provavel,2020-05-13 13:44:00,11.6,0.89,True,-3.3,False,0.35
+critico,provavel,2020-05-19 22:20:10,24.7,0.8,True,-8.7,False,0.28

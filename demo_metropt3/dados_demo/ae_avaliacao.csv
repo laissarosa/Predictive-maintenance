@@ -1,0 +1,5 @@
+falha,dado_24h_antes,detectada,inicio_alerta,antecedencia_h,cumpre_2h,componentes
+2020-04-18 00:00,0.21,True,2020-04-18 02:00:00,-2.0,False,"pressao:7.9, oleo:6.6, secador:5.9"
+2020-05-29 23:30,0.79,True,2020-05-30 00:00:00,-0.5,False,"oleo:18.8, pressao:13.0, secador:9.6"
+2020-06-05 10:00,1.0,True,2020-06-05 11:00:00,-1.0,False,"oleo:38.1, pressao:25.3, secador:15.3"
+2020-07-15 14:30,0.71,True,2020-07-15 08:00:00,6.5,True,"pressao:15.4, valvulas:15.2, secador:13.0"
